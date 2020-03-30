@@ -24,3 +24,4 @@ checkbox = CheckBox(app, text="tick box")
 combo = Combo(app, options=["first", "Second", "Third"])
 
 app.display()
+
