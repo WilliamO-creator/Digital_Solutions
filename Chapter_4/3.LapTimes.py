@@ -4,4 +4,4 @@ laptime = 0
 while i < laps:
     time = int(input("enter your time for your lap"))
     i = i + 1
-    laptime
+    laptime = laptime
